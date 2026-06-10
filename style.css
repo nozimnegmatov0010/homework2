@@ -92,6 +92,16 @@ form {
     display: flex;
     justify-content: space-around;
 }
+.m7 {
+    padding: 20px;
+    border: 2px solid gray;
+    background: #FAFAFA;
+
+}
+.m8 {
+    display: flex;
+    justify-content: space-around;
+}
 
 
 
@@ -129,5 +139,12 @@ form {
     width: 90%;
     margin: auto;
   }
+  .m8 {
+    flex-direction: column;
+    row-gap: 20px;
+    width: 90%;
+    margin: auto;
+  }
+ 
 
 }
