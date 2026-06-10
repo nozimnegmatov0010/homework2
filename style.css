@@ -144,6 +144,29 @@ color: white;
     justify-content: center;
     gap: 10px;
 }
+.n4 {
+    padding: 20px;
+    background: #23A6F0;
+
+}
+input {
+    padding: 20px;
+    width: 230px;
+
+}
+.n5 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    background: #252B42;
+padding: 50px;
+margin-top: 100px;
+}
+.n6 {
+    display: flex;
+    border-radius: 10px;
+}
 
 
 
@@ -201,6 +224,19 @@ color: white;
   }
   .m11 {
     display: none;
+  }
+.n7 {
+    display: none;
+}
+  .n5 {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding: 20px;
+    flex-direction: column;
+    row-gap: 20px;
+    width: 90%;
+    margin: auto;
+    margin-top: 100px;
   }
 
  
