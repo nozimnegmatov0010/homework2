@@ -167,6 +167,15 @@ margin-top: 100px;
     display: flex;
     border-radius: 10px;
 }
+.n10 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px;
+}
+.n10 h3 {
+    color: #252B42;
+}
 
 
 
@@ -219,6 +228,12 @@ margin-top: 100px;
   .n2 {
     flex-direction: column;
     row-gap: 20px;
+    width: 90%;
+    margin: auto;
+  }
+  .n10 {
+    flex-direction: column;
+    row-gap: 30px;
     width: 90%;
     margin: auto;
   }
