@@ -96,11 +96,32 @@ form {
     padding: 20px;
     border: 2px solid gray;
     background: #FAFAFA;
+    border-radius: 5px;
 
 }
 .m8 {
     display: flex;
     justify-content: space-around;
+}
+.m9 {
+    
+    padding: 25px;
+        background: #FAFAFA;
+border: 2px solid gray;
+border-radius: 5px;
+}
+.m9 h3 {
+    color: #252B42;
+}
+.m10 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+.m11 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
 }
 
 
@@ -145,6 +166,16 @@ form {
     width: 90%;
     margin: auto;
   }
+  .m10 {
+    flex-direction: column;
+    row-gap: 20px;
+    width: 90%;
+    margin: auto;
+  }
+  .m11 {
+    display: none;
+  }
+
  
 
 }
